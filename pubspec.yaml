@@ -61,6 +61,8 @@ flutter:
   assets:
     - assets/icons/leftArrow.svg
     - assets/icons/menu-dots.svg
+    - assets/icons/search.svg
+    - assets/icons/sliders.svg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
